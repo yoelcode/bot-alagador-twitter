@@ -1,0 +1,14 @@
+{
+  "name": "bot-insultos-twitter",
+  "version": "1.0.0",
+  "description": "Bot que responde a menciones de Twitter con insultos.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yoelcode",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
